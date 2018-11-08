@@ -102,7 +102,7 @@
 
 <img src="https://github.com/CarGuo/GSYGithubApp/blob/master/thanks.jpg" width="426px"/>
 
-
+#####1111111111
 ### 相关文章
 
 **[1、从Android到React Native开发（一、入门）](http://www.jianshu.com/p/97692b1c451d)**
