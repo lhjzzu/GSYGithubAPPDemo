@@ -38,7 +38,7 @@ export default class App extends Component<{}> {
                 this.setState({
                     show: true
                 })
-            }, 500)
+            }, 500) 
         })
     }
 
